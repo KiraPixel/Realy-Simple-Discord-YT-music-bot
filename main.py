@@ -47,4 +47,4 @@ async def play_error(ctx: disnake.ApplicationCommandInteraction, error):
         await ctx.send('Please provide a YouTube video URL.')
 
 
-bot.run('MTExMjgwNjUzMzI3Mzc1OTgxOQ.GEVxDw.snd13RxqJ04jK1DvAawF5TFJp4_C8Rmu-PxJBs')
+bot.run('')
